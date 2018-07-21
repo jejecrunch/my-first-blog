@@ -1,5 +1,5 @@
 h1 a {
-	color: #FCA205;
+	color: #B5A8D8;
 	font-family: 'Lobster';
 }
 
@@ -8,7 +8,7 @@ body {
 }
 
 .page-header {
-    background-color: #ff9400;
+    background-color: #B5A8D8;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -52,4 +52,22 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
+}
+
+.page-footer {
+    background-color: #B5A8D8;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+    text-align: center;
+}
+
+.page-footer p {
+    color: #ffffff;
+    font-size:15pt;
+    font-family:'Lobster', cursive;
+}
+
+.contact {
+    color:#ffffff;
+    font-family:'gothic';
 }
